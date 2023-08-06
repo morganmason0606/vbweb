@@ -1,0 +1,22 @@
+.logo{
+    height : 5em;
+    width: 53m;
+    margin-right: auto;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+
+.navlinks{
+    list-style:none;
+
+}
+.navlinks li{
+    display: inline-block;
+    padding: 0px 20px;
+
+}
